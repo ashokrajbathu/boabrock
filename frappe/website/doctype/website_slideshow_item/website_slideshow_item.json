@@ -1,0 +1,42 @@
+{
+ "creation": "2013-03-07 12:26:33", 
+ "docstatus": 0, 
+ "doctype": "DocType", 
+ "fields": [
+  {
+   "fieldname": "image", 
+   "fieldtype": "Attach", 
+   "in_list_view": 1, 
+   "label": "Image", 
+   "options": "", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "heading", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Heading", 
+   "permlevel": 0, 
+   "print_width": "200px", 
+   "width": "200px"
+  }, 
+  {
+   "fieldname": "description", 
+   "fieldtype": "Text", 
+   "in_list_view": 1, 
+   "label": "Description", 
+   "permlevel": 0, 
+   "print_width": "200px", 
+   "width": "200px"
+  }
+ ], 
+ "idx": 1, 
+ "istable": 1, 
+ "max_attachments": 10, 
+ "modified": "2015-02-19 09:27:05.003437", 
+ "modified_by": "Administrator", 
+ "module": "Website", 
+ "name": "Website Slideshow Item", 
+ "owner": "Administrator", 
+ "permissions": []
+}
